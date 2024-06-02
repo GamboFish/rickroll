@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://youtu.be/xvFZjo5PgG0?si=YZwx3qwDWsHih8cN" # Link to the webpage to redirect to 
+        "page": "https://i.ytimg.com/vi/YzabKuRnESo/sddefault.jpg" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
